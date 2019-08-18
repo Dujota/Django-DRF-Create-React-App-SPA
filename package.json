@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Dujota/Django-DRF-Create-React-App-SPA.git",
   "author": "Denis <ddujota@internationalsafety.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-bundle-tracker": "^0.4.2-beta"
+  }
 }
