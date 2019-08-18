@@ -1,0 +1,8 @@
+{
+  "name": "django-drf-cra-spa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dujota/Django-DRF-Create-React-App-SPA.git",
+  "author": "Denis <ddujota@internationalsafety.com>",
+  "license": "MIT"
+}
